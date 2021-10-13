@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Blog Starter Template</title>
-    <link href="https://cubecoding.github.io/blog/blog" />
-    <link type="application/atom+xml" rel="self" href="https://cubecoding.github.io/blog/blog/feed.atom" />
-    <updated>2021-10-13T17:55:01+00:00</updated>
-    <id>https://cubecoding.github.io/blog/blog/feed.atom</id>
+    <link href="https://cubecoding.github.io/blog" />
+    <link type="application/atom+xml" rel="self" href="https://cubecoding.github.io/blog/feed.atom" />
+    <updated>2021-10-13T18:39:01+00:00</updated>
+    <id>https://cubecoding.github.io/blog/feed.atom</id>
     <author>
         <name>Author Name</name>
     </author>
                 <entry>
-    <id>https://cubecoding.github.io/blog/blog/getting-started</id>
-    <link type="text/html" rel="alternate" href="https://cubecoding.github.io/blog/blog/getting-started" />
+    <id>https://cubecoding.github.io/blog/getting-started</id>
+    <link type="text/html" rel="alternate" href="https://cubecoding.github.io/blog/getting-started" />
     <title>Getting Started</title>
     <published>2018-12-25T00:00:00+00:00</published>
     <updated>2018-12-25T00:00:00+00:00</updated>
@@ -84,8 +84,8 @@ npm run dev
     ]]></content>
 </entry>
             <entry>
-    <id>https://cubecoding.github.io/blog/blog/customizing-your-site</id>
-    <link type="text/html" rel="alternate" href="https://cubecoding.github.io/blog/blog/customizing-your-site" />
+    <id>https://cubecoding.github.io/blog/customizing-your-site</id>
+    <link type="text/html" rel="alternate" href="https://cubecoding.github.io/blog/customizing-your-site" />
     <title>Customizing Your Site</title>
     <published>2018-12-24T00:00:00+00:00</published>
     <updated>2018-12-24T00:00:00+00:00</updated>
@@ -190,8 +190,8 @@ npm run dev
     ]]></content>
 </entry>
             <entry>
-    <id>https://cubecoding.github.io/blog/blog/custom-404-page</id>
-    <link type="text/html" rel="alternate" href="https://cubecoding.github.io/blog/blog/custom-404-page" />
+    <id>https://cubecoding.github.io/blog/custom-404-page</id>
+    <link type="text/html" rel="alternate" href="https://cubecoding.github.io/blog/custom-404-page" />
     <title>Custom 404 Pages</title>
     <published>2018-12-23T00:00:00+00:00</published>
     <updated>2018-12-23T00:00:00+00:00</updated>
@@ -233,8 +233,8 @@ Depending on where your site is hosted, you may need to......</summary>
     ]]></content>
 </entry>
             <entry>
-    <id>https://cubecoding.github.io/blog/blog/fuse-search</id>
-    <link type="text/html" rel="alternate" href="https://cubecoding.github.io/blog/blog/fuse-search" />
+    <id>https://cubecoding.github.io/blog/fuse-search</id>
+    <link type="text/html" rel="alternate" href="https://cubecoding.github.io/blog/fuse-search" />
     <title>Fuse Search</title>
     <published>2018-12-22T00:00:00+00:00</published>
     <updated>2018-12-22T00:00:00+00:00</updated>
@@ -251,8 +251,8 @@ Depending on where your site is hosted, you may need to......</summary>
     ]]></content>
 </entry>
             <entry>
-    <id>https://cubecoding.github.io/blog/blog/mailchimp-newsletters</id>
-    <link type="text/html" rel="alternate" href="https://cubecoding.github.io/blog/blog/mailchimp-newsletters" />
+    <id>https://cubecoding.github.io/blog/mailchimp-newsletters</id>
+    <link type="text/html" rel="alternate" href="https://cubecoding.github.io/blog/mailchimp-newsletters" />
     <title>Mailchimp Newsletters</title>
     <published>2018-11-21T00:00:00+00:00</published>
     <updated>2018-11-21T00:00:00+00:00</updated>
@@ -297,8 +297,8 @@ To begin accepting......</summary>
     ]]></content>
 </entry>
             <entry>
-    <id>https://cubecoding.github.io/blog/blog/my-first-blog-post</id>
-    <link type="text/html" rel="alternate" href="https://cubecoding.github.io/blog/blog/my-first-blog-post" />
+    <id>https://cubecoding.github.io/blog/my-first-blog-post</id>
+    <link type="text/html" rel="alternate" href="https://cubecoding.github.io/blog/my-first-blog-post" />
     <title>My First Blog Post</title>
     <published>2017-03-23T00:00:00+00:00</published>
     <updated>2017-03-23T00:00:00+00:00</updated>
